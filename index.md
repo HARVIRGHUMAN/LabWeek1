@@ -27,9 +27,9 @@ When I'm not coding, I stay active and engaged with my community through various
 ---
 
 ## 📸 Media & Portfolio
-Below is a look at my current development environment:
+Below is a look at my home development environment:
 
-![My Workspace Setup](screenshots/workspace.jpg)
+![My Workspace Setup](screenshots/setup.jpg)
 
 ### Project Roadmap
 - [x] Initialize GitHub repository
