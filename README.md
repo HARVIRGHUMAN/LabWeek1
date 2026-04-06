@@ -2,4 +2,4 @@
 
 Favorite Programming Language Python
 
-[https://harvirghuman.github.io/LabWeek1/](Published-Site-Link)
+Check out my live page here: [https://harvirghuman.github.io/LabWeek1/](https://harvirghuman.github.io/LabWeek1/)
